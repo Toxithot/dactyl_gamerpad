@@ -5,9 +5,8 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [max](https://github.com/toxithot)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
-
+* Hardware Supported: pi pico
+* model configurator:  https://ryanis.cool/dactyl/#manuform:ChwIBhAFGgN0d28iBHplcm8qAm14MgVvdXRpZTgAEhAIhAcQwgMYwgMgBCiUCDBaGgkIABIDdXNiGAEiF1UAAKBAGAAgAV0AAOBAZQAAQEBAAEgAMvkBlQMAACBAnQMAAIA/gAMBiAMBDQAAAAAVAAAAAB0zMzNAJQAA0MAtAADAwDUAAMBAPQAAAABFAAAAAE0AAMBAVQAAQMBdAADgQGUzM2HCbTMzLcJ1AAC8wXjnAoABzRiIAcgklQEzMxfCnQEzM13CpQFmZsrBqAGfC7ABmRe4AfwlxQEAAFDCzQEAANDB1QEAAEDB2AGcBOAB8xfoAZAc9QEAAOjB/QEAACTChQIAAFDBiAKbBJAC8xeYAuAhpQIAAAzCrQIAAHDBtQIAAADAuAKEB8AClRDIAoQH1QIAAEDB3QIAAIDB5QIAAEBA6AKEB/AClRD4AoQHKgYIABAAGAA=
 Make example for this keyboard (after setting up your build environment):
 
     make dactyl_gamerpad_real:default
