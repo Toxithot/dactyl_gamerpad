@@ -1,6 +1,6 @@
 # dactyl_gamerpad_real
 
-![dactyl_gamerpad_real](imgur.com image replace me!)
+https://i.imgur.com/0sC9C9m.png
 
 *A short description of the keyboard/project*
 
