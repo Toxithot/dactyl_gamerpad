@@ -1,6 +1,6 @@
 # dactyl_gamerpad_real
 
-[see here](https://i.imgur.com/0sC9C9m.png)
+![see here](https://i.imgur.com/0sC9C9m.png)
 
 *A short description of the keyboard/project*
 
